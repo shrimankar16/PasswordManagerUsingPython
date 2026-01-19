@@ -9,7 +9,7 @@ from rich import print as printc
 
 import utils.add
 import utils.retrieve
-import utils.generate
+import utils.generator
 from utils.dbconfig import dbconfig
 
 parser = argparse.ArgumentParser(description='Description')
